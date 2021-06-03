@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hypocrite unmasked:, or, The inside of colonel Robert Jermye discovered, by the articles following, the substance whereof was proved to a jury at Guild hall, London, the 21 of June, 1656.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24543</idno><idno type="EEBO-CITATION">99886204</idno>
+  <idno type="VID">186471</idno>
+  <idno type="EEBO-PROQUEST">2240890485</idno>
+  
+            <idno type="STC">Wing H3887A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.h.4[14]</idno>
+            <idno type="STC">ESTC R225684</idno>
+            <idno type="PROQUEST">ocm99886204</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886204e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186471)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:1[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hypocrite unmasked:, or, The inside of colonel Robert Jermye discovered, by the articles following, the substance whereof was proved to a jury at Guild hall, London, the 21 of June, 1656.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate,1649-1669 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186471:1"/>
+            <head>An Hypocrite unmasked: OR, <hi>The Inside of Colonel</hi> Robert Jermye <hi>discovered, by the Articles following, the substance whereof was proved to a Jury at</hi> Guild hall, London, <hi>the</hi> 21 <hi>of</hi> June, 1656.</head>
+            <p>
+               <hi>JOhn Armiger</hi> Gent. having for some years lyen under the intolerable burthen of his malice, and being resolved to unmask the Hy<g ref="char:EOLhyphen"/>pocrite, and to do his Countrey that service, as to make such an Obstructer and Abuser of Justice, capable to receive Justice, and un<g ref="char:EOLhyphen"/>capable of doing further mischief; on the 11 of <hi>Feruary,</hi> 1658. exhibited certain Instances by way of Articles, to the Lords Keepers of the Great Seal against the said Colonel in these words and form following:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Right Honourable the Lords Keepers of the Great Seal of <hi>ENGLAND.</hi>
+                  </head>
+                  <head type="sub">A few of many Instances by way of Articles, in pursuance of a more General Charge humbly tendred to your Lordships by <hi>John Armiger</hi> Gent. against <hi>Robert Jermy</hi> Esq; a Justice of the Peace for the County of <hi>Norfolk.</hi>
+                  </head>
+                  <p>
+                     <note place="margin">Imprimis.</note>THat <hi>John Stileman, John Tidde, John Grove,</hi> and divers others, being resolved, forceably and riotously to enter and take pos<g ref="char:EOLhyphen"/>session of a Ship called, <hi>The Tryal of Wells,</hi> in the year 1650. did repair to the said Mr. <hi>Jermye</hi> for his advice, who did there<g ref="char:EOLhyphen"/>upon incourage the said persons to proceed in their said Intentions, telling them, it would be but a Sessions Businesse, and he should be there, and if they were questioned there, he would bring them off for their Fees: That accordingly the said persons did enter upon the said Ship by force, wounding some of them that were in possession of her, and turning them forth; and brake a House, and took away several Goods: That complaint being made thereof to the said Mr <hi>Jermye,</hi> he refused to grant a Warrant against the said Riotors, but there being one after granted from Mr. <hi>Ward</hi> another Justice, the said persons were carryed before the said <hi>Jermye,</hi> who refused to binde them over, untill he was threatned to be complained of: That at the said Sessions, he procured the said Riotors to be discharged for their bare Fees, and did there countenance them, and discourage and discountenance those which would have prosecuted them.</p>
+                  <p n="2">II. That about seven years since, one <hi>Seele</hi> being complained of to <hi>Thomas Cook</hi> Esq; since deceased, and then another Justice of Peace in that County, for Buggery; upon which, the said Justice issued forth his Warrant to apprehend him, the said Mr. <hi>Jermy</hi> (being then a Justice of Peace) being informed of it, wrote to the said Justice on behalf of the said party, and desired him to recall his Warrant, and to punish the Prosecutor; which Mr. <hi>Cooke</hi> refusing, he advised the said <hi>Seele</hi> to flie the Countrey untill after the Assizes then for that County.</p>
+                  <p n="3">III. That one <hi>John Stileman</hi> being complained of for the Felonious taking away of certain Evidences or Writings from one <hi>Robert Hastings,</hi> out of his Cloak-bagge) to the said Mr. <hi>Jermy,</hi> he thereupon about six years since, being then also a Justice of Peace, committed the said <hi>Stileman</hi> to the Custody of a Constable, as being guilty of, or charged with the said Felony, where the said <hi>Stileman</hi> remained for some dayes: And after, the said Mr. <hi>Jermy</hi> discharged him, without further prosecution, first having instructed him how to make a fallacious Oath touching the said Businesse.</p>
+                  <p n="4">IV. That he without any authority, compelled one Doctor <hi>Witherly</hi> to allow Mris. <hi>Katherine Fox</hi> 16 <hi>l. per annum,</hi> and to suffer her to take what Wood she pleased off his Ground, and after enticed Mris. <hi>Fox</hi> to meet him at a private lone House, where he with much violence and incivility attempted her Chastity: And further, to prevail with her, he told her, he had hanged one of her Brothers, and the other was fled; and if ever he came again, by the interest he had, he would hang him also, and would make her Heir to the Estate: And in the mean time would make Doctor <hi>Witherly</hi> repair the Houses, and commanded him with threats to do it: And advised her, to keep com<g ref="char:EOLhyphen"/>pany often with two Ministers Wives, that he might keep her company without stain to his Reputation. But she refusing to yield to his Lust, and divulging his Actions, he so violently prosecuted her, upon frivolous and feigned Informations, that she was necessitated being over-powred with him, to flie the Countrey.</p>
+                  <p n="5">V. That the said Mr. <hi>Jermye</hi> about six years since preferred a Petition to the Commissioners for Indemnity at <hi>Habberdashers</hi> Hall, in the name of <hi>John Stileman, John Grove, William Bowman,</hi> and others; and did before the said Commissioners, swear that the substance of the said Petition was true, which afterwards the said three persons above named, upon their Oaths disowned the said Petition to be any Act of theirs, and that the substance thereof was false: And upon hearing the said Cause, wherein the said <hi>Jermye</hi> was examined as a Witnesse, the said Commissioners also adjudged the substance thereof to be untrue.</p>
+                  <p n="6">VI. That the said Mr. <hi>Jermye</hi> commenced an Action against the said Mr. <hi>Armiger</hi> for saying these words of him (<hi>You sit upon the Bench as a Justice of Peace to maintain Roguery and Villany, and I have told you as much to your face upon the Bench</hi>) which came to a tryal before the Lord Chief Justice <hi>Glynne</hi> at <hi>Guild-hall London,</hi> 21 of <hi>June</hi> 1656. and then the said Mr. <hi>Armiger</hi> waving his plea of not guilty, pleaded Justifica<g ref="char:EOLhyphen"/>tion, and upon proof of these and other like misdemeanours, the Jury sound for Mr. <hi>Armiger,</hi> which Verdict is exemplified.</p>
+                  <closer>
+                     <signed>J. Armiger.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon reading whereof, the said Lords Keepers made their Order of Summons as followeth in these words:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Friday the</hi> 11 <hi>of</hi> February, 1658.</head>
+                  <p>
+                     <note place="margin">Keep.</note>UPon reading certain Instances by way of Articles in pursuance of a more General Charge tendred to us by <hi>John Armiger</hi> Gent. against <hi>Robert Jermye</hi> Esq; a Justice of Peace for the County of <hi>Norfolke:</hi> It is Ordered, that the said <hi>Robert Jermye</hi> doe attend us upon Friday morning, the 18 of this instant <hi>February,</hi> at the Court of Ward-Chamber, that we may speak with him touching the said Articles.</p>
+                  <closer>
+                     <signed>B. W. J. L.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>With which Order the said Collonel being served, and having a Copy of the said Articles, appeared the day appointed, and the day following, and being told by the said Lords Keepers he was to put in his Answer in writing, to the said Articles: Yet the said Colo<g ref="char:EOLhyphen"/>nel then making some Dilatory excuse, at that time waved it, and still doth, being unwilling to be tryed by the Touch-stone of Justice, very well knowing the matters therein contained have been already proved, and yet can be made good to his shame (if he had any) But he hath made such sweet gain by his foul practice, that he is loth to forsake his <hi>Diana.</hi> But how fit he is to be intrusted with such an Authority, which so neerly concerns the Peoples Liberties, let all that love the prosperity of their Countrey judge.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
